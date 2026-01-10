@@ -103,5 +103,3 @@ Rate limit to 10 queries per second per worker:
 ```
 hey -q 10 -c 5 -z 30s https://google.com
 ```
-
-Previously known as [github.com/rakyll/boom](https://github.com/rakyll/boom).
